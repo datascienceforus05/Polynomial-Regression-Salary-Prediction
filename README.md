@@ -22,4 +22,4 @@ We want to build a model to predict what salary we should offer this new employe
 
 3.Use Proper Diagonistics to show the accuracy and error of the Model.
 
-### To view Jupyter Notebook click [here]()
+### To view Jupyter Notebook click [here](https://github.com/SrutiDutta/Polynomial-Regression-Salary-Prediction/blob/main/Salary%20prediction%20with%20Polynomial%20Regression%20.ipynb)
